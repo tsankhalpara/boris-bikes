@@ -1,3 +1,6 @@
-class Bike 
+class Bike
+
+def working?
+end
 
 end
